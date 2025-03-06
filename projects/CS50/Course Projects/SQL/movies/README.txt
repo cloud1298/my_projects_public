@@ -1,1 +1,0 @@
-Those are series of exercises I've made.

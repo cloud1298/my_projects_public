@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📜 Certificates  
 ## There are links to my certificates.  
 The last certificate will be in the **"certificates"** folder in the GitHub repository.  
@@ -15,3 +16,7 @@ The last certificate will be in the **"certificates"** folder in the GitHub repo
 
 # 🚀 Projects  
 There are some of my projects in the **"projects"** folder. Every project has a README file. Bigger projects are packed and needs unpacking.
+=======
+# my_projects_public
+List of some of my projects i've done while learning programming.
+>>>>>>> a6d0d4cbd470c260b384ea15bdfa44218d587d24
