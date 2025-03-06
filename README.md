@@ -1,6 +1,6 @@
 # 📜 Certificates  
 ## There are links to my certificates.  
-The rest of them will be in the **"certificates"** folder in the GitHub repository.  
+The last certificate will be in the **"certificates"** folder in the GitHub repository.  
 
 ### 🐍 Python  
 [View Certificate](https://www.testdome.com/certificates/dfa5f74a6d3e442b9355aaec4c71473d)  
