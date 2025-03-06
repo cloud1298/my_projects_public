@@ -14,4 +14,4 @@ The rest of them will be in the **"certificates"** folder in the GitHub reposito
 ---
 
 # 🚀 Projects  
-### there are some of my projects in the **"projects"** folder. Every project had a README file.  
+There are some of my projects in the **"projects"** folder. Every project has a README file.  
