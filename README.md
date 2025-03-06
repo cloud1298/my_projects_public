@@ -14,4 +14,4 @@ The rest of them will be in the **"certificates"** folder in the GitHub reposito
 ---
 
 # 🚀 Projects  
-## In the repository, there are some of my projects I've done for learning purposes.  
+## In the **"projects"** folder, there are some of my projects I've done for learning purposes.  
