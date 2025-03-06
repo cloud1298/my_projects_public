@@ -1,5 +1,5 @@
 # 📜 Certificates  
-## There are links to some of my certificates.  
+## There are links to my certificates.  
 The rest of them will be in the **"certificates"** folder in the GitHub repository.  
 
 ### 🐍 Python  
