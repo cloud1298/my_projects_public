@@ -1,0 +1,158 @@
+:root {
+    --color1: #D89584;
+    --color2: #F4F4F4;
+}
+
+body {
+    margin: 0;
+    font-family: Arial;
+}
+
+h1 {
+    color:white;
+    text-align: center;
+    font-size: 55px;
+    margin-bottom: 0;
+}
+
+img.cover-profile {
+    height: 150px;
+    position: relative;
+    left: 50%;
+    margin-left: -85px;
+    margin-top: 100px;
+}
+
+a.contact-button {
+    color: var(--color1);
+    border: 4px solid var(--color1);
+    padding: 14px 25px;
+    text-decoration: none;
+    margin-top: 60px;
+    display: inline-block;
+    background-color: #00000050;
+    font-size: 24px;
+}
+
+a.contact-button:hover {
+    color: white;
+    border: 4px solid white
+}
+
+div.cover {
+    background: url(cover_overlay.png) center/100% 100%, url(cover.jpg) no-repeat center/cover;
+    height: 720px;
+}
+
+div.cover-contact {
+    position: absolute;
+    top: 40px;
+    left: 20px;
+    margin-left: 2.5%;
+    border-left: 8px solid var(--color1);
+    padding-left: 40px;
+}
+
+div.cover p {
+    color: lightgray;
+    text-align: center;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+div.cover-contact a {
+    display: block;
+    color: white;
+    font-size: 24px;
+}
+
+div.cover-contact a:first-child {
+    margin-bottom: 20px;
+}
+
+div.section {
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 60px;
+    padding-bottom: 140px;
+}
+
+div.grey-section-1 {
+    background: url(triangle2white.svg) no-repeat center bottom/100%;
+    background-color: var(--color2);
+    padding-bottom: 250px;
+}
+
+div.grey-section-2 {
+    background: url(triangle1white.svg) no-repeat center top/100%;
+    background-color: var(--color2);
+    padding-top: 200px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+div.separator {
+    height: 1px;
+    width: 300px;
+    background-color: #979797;
+    position: relative;
+    left: 50%;
+    margin-left: -150px;
+}
+
+div.grey-section-1 p {
+    font-size: 35px;
+    max-width: 1400px;
+    color: #656565;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.wide-text {
+    line-height: 2;
+}
+
+.white-1 {
+    width: 1450px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+}
+
+.white-1 p {
+    margin-top: 80px;
+    padding-bottom: 50px;
+}
+
+div.about-me {
+    text-align: center;
+}
+
+div.about-me a {
+    font-size: 20px;
+}
+
+div.vertical-bar {
+    width: 4px;
+    height: 150px;
+    background-color: var(--color1);
+    margin-right: 15px;
+}
+
+table.portfolio-right {
+    float: right;
+}
+
+td.portfolio-grey-link {
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table.portfolio-half {
+    width: 50%;
+}

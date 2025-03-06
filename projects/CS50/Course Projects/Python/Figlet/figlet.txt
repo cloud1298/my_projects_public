@@ -1,0 +1,12 @@
+Get fonts
+
+If program is not properly used (fonts, number of arguments, commands):
+    Make error
+    Exit
+
+Get font from argv. If not defined, then take random
+
+Show user the list of all usable fonts
+Ask for input
+Render text into ASCII art
+Print ASCII art
